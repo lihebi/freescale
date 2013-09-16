@@ -1,0 +1,9 @@
+#define RIGHT_CW PWMDTY1
+#define RIGHT_CCW PWMDTY0
+
+#define LEFT_CW PWMDTY3
+#define LEFT_CCW PWMDTY2
+
+#define MOTOR_OUT_DEAD_VAL 0
+#define MOTOR_OUT_MAX 99
+#define MOTOR_OUT_MIN -99

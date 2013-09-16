@@ -1,0 +1,2 @@
+void speedControl();
+void speedControlOutput();
